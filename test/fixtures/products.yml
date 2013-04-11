@@ -11,3 +11,12 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description:
+    Lorem ipsum dolor sit amet, consectetur 
+    adipisicing elit. Consectetur repudiandae explicabo 
+    dolorem nulla illo ipsa provident sunt tenetur sed magnam.
+  price: 49.50
+  image_url: ruby.png
